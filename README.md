@@ -15,6 +15,10 @@ https://cloud.tencent.com/developer/article/1020438
 
 CTR 用户推荐 推荐系统
 
-时序模型
+时序模型（时序特征）
 
 不平衡数据学习  数据增强
+（类比图像 CNN挖掘深层特征？？）
+
+异常检测
+https://github.com/yzhao062/anomaly-detection-resources/blob/master/README.rst
